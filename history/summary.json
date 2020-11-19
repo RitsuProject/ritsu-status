@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "AnimeThemes",
+    "url": "https://animethemes.moe",
+    "slug": "anime-themes",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 418
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "AnimeThemes API",
+    "url": "https://animethemes.dev",
+    "slug": "anime-themes-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 380
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Openings.moe",
+    "url": "https://openings.moe/",
+    "slug": "openings-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
+    "time": 546
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Catbox",
+    "url": "https://catbox.moe/",
+    "slug": "catbox",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 1187
   }
 ]
