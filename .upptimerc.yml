@@ -15,18 +15,20 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.ritsu.sazz.fail
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /themes-status
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ritsu's Themes Status
-  introTitle: "Intro"
-  introMessage: Track the status of anime theme repositories like AnimeThemes, Catbox and Openings.moe
+  introTitle: "wtf is this"
+  introMessage: This website tracks the status of sites that are usually repositories of anime openings/endings themes, such as AnimeThemes, Openings.moe and often Catbox.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  notifications:
+  - type: discord
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
