@@ -5,7 +5,7 @@
     "slug": "anime-themes",
     "status": "up",
     "uptime": "100.00",
-    "time": 310
+    "time": 334
   },
   {
     "name": "AnimeThemes API",
@@ -13,7 +13,15 @@
     "slug": "anime-themes-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 233
+    "time": 236
+  },
+  {
+    "name": "Ritsu API",
+    "url": "http://ritsu.api.waiifu.tech",
+    "slug": "ritsu-api",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 110
   },
   {
     "name": "Openings.moe",
@@ -21,7 +29,7 @@
     "slug": "openings-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 495
+    "time": 524
   },
   {
     "name": "Catbox",
@@ -29,6 +37,6 @@
     "slug": "catbox",
     "status": "up",
     "uptime": "100.00",
-    "time": 526
+    "time": 558
   }
 ]
