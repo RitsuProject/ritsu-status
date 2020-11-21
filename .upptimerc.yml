@@ -10,6 +10,8 @@ sites:
     url: https://animethemes.dev
   - name: Ritsu API
     url: http://ritsu.api.waiifu.tech
+  - name: Test Website
+    url: http://ritsu-test.com
   - name: Openings.moe
     url: https://openings.moe/
   - name: Catbox
