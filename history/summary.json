@@ -5,7 +5,7 @@
     "slug": "anime-themes",
     "status": "up",
     "uptime": "100.00",
-    "time": 314
+    "time": 315
   },
   {
     "name": "AnimeThemes API",
@@ -13,7 +13,7 @@
     "slug": "anime-themes-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 246
+    "time": 236
   },
   {
     "name": "Ritsu API",
@@ -21,15 +21,7 @@
     "slug": "ritsu-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 80
-  },
-  {
-    "name": "Test Website 2",
-    "url": "http://ritsu-test2.com",
-    "slug": "test-website-2",
-    "status": "down",
-    "uptime": "7.72",
-    "time": 0
+    "time": 86
   },
   {
     "name": "Openings.moe",
@@ -37,7 +29,7 @@
     "slug": "openings-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 497
+    "time": 507
   },
   {
     "name": "Catbox",
@@ -45,6 +37,6 @@
     "slug": "catbox",
     "status": "up",
     "uptime": "100.00",
-    "time": 532
+    "time": 515
   }
 ]
