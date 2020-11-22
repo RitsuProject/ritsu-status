@@ -13,7 +13,7 @@
     "slug": "anime-themes-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 236
+    "time": 250
   },
   {
     "name": "Ritsu API",
@@ -21,7 +21,7 @@
     "slug": "ritsu-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 86
+    "time": 89
   },
   {
     "name": "Openings.moe",
@@ -29,7 +29,7 @@
     "slug": "openings-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 507
+    "time": 539
   },
   {
     "name": "Catbox",
@@ -37,6 +37,6 @@
     "slug": "catbox",
     "status": "up",
     "uptime": "100.00",
-    "time": 515
+    "time": 533
   }
 ]
