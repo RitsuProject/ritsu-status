@@ -1,7 +1,7 @@
-- url: http://ritsu.api.waiifu.tech
-- status: up
-- code: 200
-- responseTime: 109
-- lastUpdated: 2020-11-21T23:10:26.827Z
-- startTime: 2020-11-21T17:22:14.883Z
-- generator: Upptime <https://github.com/upptime/upptime>
+url: http://ritsu.api.waiifu.tech  
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2020-11-22T23:05:08.329Z
+startTime: Sat Nov 21 2020 17:22:14 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
