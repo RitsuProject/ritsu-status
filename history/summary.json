@@ -35,8 +35,8 @@
     "name": "Catbox",
     "url": "https://catbox.moe/",
     "slug": "catbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 528
+    "time": 490
   }
 ]
