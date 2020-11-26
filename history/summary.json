@@ -20,7 +20,7 @@
     "url": "http://ritsu.api.waiifu.tech",
     "slug": "ritsu-api",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "time": 103
   },
   {
@@ -35,8 +35,8 @@
     "name": "Catbox",
     "url": "https://catbox.moe/",
     "slug": "catbox",
-    "status": "up",
-    "uptime": "97.51%",
-    "time": 756
+    "status": "down",
+    "uptime": "97.52%",
+    "time": 720
   }
 ]
