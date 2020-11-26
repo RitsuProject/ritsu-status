@@ -19,9 +19,9 @@
     "name": "Ritsu API",
     "url": "http://ritsu.api.waiifu.tech",
     "slug": "ritsu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "time": 111
+    "time": 102
   },
   {
     "name": "Openings.moe",
