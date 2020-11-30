@@ -5,23 +5,23 @@
     "slug": "anime-themes",
     "status": "up",
     "uptime": "100.00%",
-    "time": 342
+    "time": 345
   },
   {
     "name": "AnimeThemes API",
-    "url": "https://animethemes.dev",
+    "url": "https://staging.animethemes.moe",
     "slug": "anime-themes-api",
-    "status": "down",
-    "uptime": "99.68%",
-    "time": 408
+    "status": "up",
+    "uptime": "99.29%",
+    "time": 389
   },
   {
     "name": "Ritsu API",
     "url": "http://ritsu.api.waiifu.tech",
     "slug": "ritsu-api",
     "status": "up",
-    "uptime": "97.99%",
-    "time": 95
+    "uptime": "98.00%",
+    "time": 96
   },
   {
     "name": "Openings.moe",
@@ -29,14 +29,14 @@
     "slug": "openings-moe",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "time": 529
   },
   {
     "name": "Catbox",
     "url": "https://catbox.moe/",
     "slug": "catbox",
     "status": "up",
-    "uptime": "97.93%",
-    "time": 615
+    "uptime": "97.94%",
+    "time": 612
   }
 ]
