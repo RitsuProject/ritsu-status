@@ -7,7 +7,7 @@ sites:
   - name: AnimeThemes
     url: https://animethemes.moe
   - name: AnimeThemes API
-    url: https://animethemes.dev
+    url: https://staging.animethemes.moe
   - name: Ritsu API
     url: http://ritsu.api.waiifu.tech
   - name: Openings.moe
