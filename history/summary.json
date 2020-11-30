@@ -12,16 +12,16 @@
     "url": "https://animethemes.dev",
     "slug": "anime-themes-api",
     "status": "down",
-    "uptime": "99.74%",
+    "uptime": "99.68%",
     "time": 408
   },
   {
     "name": "Ritsu API",
     "url": "http://ritsu.api.waiifu.tech",
     "slug": "ritsu-api",
-    "status": "down",
-    "uptime": "98.07%",
-    "time": 97
+    "status": "up",
+    "uptime": "97.99%",
+    "time": 95
   },
   {
     "name": "Openings.moe",
