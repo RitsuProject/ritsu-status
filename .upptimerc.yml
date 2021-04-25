@@ -5,11 +5,11 @@ repo: ritsu-status # Your Github repository name
 # Add your sites here
 sites:
   - name: AnimeThemes
-    url: https://animethemes.moe/video/86-OP1.webm
+    url: https://animethemes.moe/
   - name: AnimeThemes API
     url: https://staging.animethemes.moe
   - name: Ritsu API
-    url: https://api.ritsu.fun/api/v3/ping
+    url: https://api.ritsu.fun/network
   - name: Openings.moe
     url: https://openings.moe/
   - name: Catbox
